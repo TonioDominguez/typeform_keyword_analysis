@@ -4,6 +4,8 @@
 
 This project analyzes data from an online form used by a women's therapy group company. The form collects information about potential clients' problems, desired changes, and expectations from therapy. The analysis aims to understand the differences between respondents who attended informational sessions (indicating higher commitment) and those who did not.
 
+The therapy group speaks is from Spain, so that's why all inputs are in spanish and the variables are in the same language. Also, at the end of the `EDA+keyword_impact.ipynb`, you will find a deep interpretation of the keywords impact scores in Spanish.
+
 ## Repository Contents
 
 - `cleaning_typeform.ipynb`: Data cleaning and preprocessing notebook
@@ -57,11 +59,3 @@ Potential areas for expanding this analysis include:
 - Sentiment analysis of responses
 - Topic modeling to identify common themes
 - Predictive modeling to forecast session attendance or client engagement
-
-## Contributors
-
-[Your Name or Organization]
-
-## License
-
-[Specify the license under which this project is shared, e.g., MIT License]
